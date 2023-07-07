@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning things that are capable to blow up my mind.
 - 🌱 I’m currently learning to code in different languages.
 - 🌱 I’m pursuing my professional degree in B.Tech Computer Science and Engineering
-- 💞️ I’m looking to collaborate on java and webtech. projects.
+- 💞️ I’m looking to collaborate on Java, C++ and webtech. projects.
 
 
 <!---
